@@ -1,4 +1,4 @@
-mod fasta;
+pub mod fasta;
 
 mod fastq;
 
